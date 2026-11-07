@@ -3,6 +3,8 @@
 港中文比较与公众历史硕士 · 可到岗 2026年11月  
 邮箱：[zhiyigai2@gmail.com](mailto:zhiyigai2@gmail.com) · 手机：(86) 180 8517 9987 · [作品仓 GAI810/Gai](https://github.com/GAI810/Gai)
 
+作品集：[https://gai810.github.io/](https://gai810.github.io/)
+
 做政企 AI 培训、内容与整合营销，以及能落地的 AI 产品 / 前端实验。
 
 ## 精选
